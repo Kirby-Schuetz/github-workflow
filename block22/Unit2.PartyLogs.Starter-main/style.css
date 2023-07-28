@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #142d4c;
+    font-family: Merriweather, serif;
+  font-size: 46px;
+}
+
+html {
+    background-color: #ececec;
+    color: #385170;
+    font-family: 'Open Sans';
+    text-transform: uppercase;
+    font-variant: small-caps;
+}
+
+div {
+    outline-style: double;
+  }
+
